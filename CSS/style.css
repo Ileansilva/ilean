@@ -1,0 +1,143 @@
+/*===================seção de tag===============*/
+body {
+    color: #9BBEC8;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: white;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+        line-height: 2;
+    font-size: 500%;
+    margin:0 auto;
+ color: #66BFBF;
+ font-weight: normal;
+ margin-bottom: 30px;
+ 
+
+}
+h2,h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    margin: 0 auto;
+    color: #66BFBF;
+}
+
+
+p {
+    color: black;
+    font-size: 2,5rem;
+    line-height: 2;
+   }
+
+   hr {
+    border: dotted #000 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+   }
+   .a {
+    color: #11999E;
+    font-family: 'montserrat' , sans-serif;
+    margin: 100px 90px;
+    text-decoration: none;
+   }
+   a:hover {
+    color: #9bf50a;
+   }
+   h2 {
+    padding-top: 5%;
+   }
+/*===========seção de classes==========*/
+.top-container{
+ background-color: #427D9D;
+ position: relative;
+ padding-top: 100px;
+}
+.celebro-tech-cima {
+    position: absolute;
+    right: 27%;
+    top: 9%;
+}
+
+.top-container{
+    background-color: #427D9D;
+   }
+   .celebro-tech-baixo {
+       position: absolute;
+       bottom: 8%;
+       right: 67%;
+   }
+
+   .skill-row {
+    width: 50%;
+    margin: 4% auto 4% auto;
+    text-align: left ;
+   }
+
+
+
+   .code-img {
+          width: 20%;
+          float: left;
+          margin-right: 30px;
+   }
+
+
+   .chilli-img {
+            width: 20%;
+            float: right;
+            margin-right: 30px;
+   }
+
+   .middle-container {
+    margin: 150px auto;
+   }
+
+   .contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+
+   }
+
+   .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -moz-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -ms-linear-gradient(top, #11cdd4, #2980b9);
+    background-image: -o-linear-gradient(top, #11cdd4,   #2980b9);
+    background-image: linear-gradient( to bottom, #11cdd4, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #21eb4d;
+    text-decoration: none;
+  }
+  .bottom-container {
+       background-color: #363062; 
+padding: 50px 0 20px;
+
+  }
+
+   .footer-link {
+    color: #66BFBF;
+    font-family: 'montserrat' , sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-size: 150%;
+   }
+
+   .copyright {
+    color: white;
+   }
+/*===========seção de id=============*/
